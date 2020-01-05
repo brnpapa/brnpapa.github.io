@@ -22,7 +22,7 @@ projects:
    #   - stars
    limit: 9
    exclude:
-      archived: false
+      archived: true
       forks: true
       projects:
       # - repo-name
@@ -31,7 +31,7 @@ social_media:
    linkedin: brnpapa
    freecodecamp: brnpapa
    medium: brnpapa
-   #  instagram: your_username
+   # instagram: your_username
    # behance: your_username
    # dribbble: your_username
    # facebook: your_username
